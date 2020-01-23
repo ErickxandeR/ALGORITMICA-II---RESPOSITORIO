@@ -1,2 +1,2 @@
-# Practica-Dirigida-N1
+# ALGORITMICA II - REPOSITORIO
 Erick Alexander Estrada Vargas
